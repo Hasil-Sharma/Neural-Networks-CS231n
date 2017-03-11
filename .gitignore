@@ -87,3 +87,14 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Assignment Files
+./assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_4
+./assignment1/cs231n/datasets/cifar-10-batches-py/test_batch
+./assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_3
+./assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_2
+./assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_5
+./assignment1/cs231n/datasets/cifar-10-batches-py/data_batch_1
+
+# Codio Files
+.codio
