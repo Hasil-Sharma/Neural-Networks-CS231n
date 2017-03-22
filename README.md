@@ -9,7 +9,7 @@ For configuration and other set up info, Please refer to page : http://cs231n.gi
 * Support Vector Machine Implementation - [svm.ipynb][2]
 * Softmax Implementation - [softmax.ipynb][3]
 * Two-Layer Neural Network Implementation - [two_layer_net.ipynb][4]
-* Image Features - [features.ipynb]
+* Image Features - [features.ipynb][5]
 
 [1]: https://github.com/Hasil-Sharma/Neural-Networks-CS231n/blob/master/assignment1/knn.ipynb "K Nearest Neighbour Implementation"
 [2]: https://github.com/Hasil-Sharma/Neural-Networks-CS231n/blob/master/assignment1/svm.ipynb "Support Vector Machine Implementation"
